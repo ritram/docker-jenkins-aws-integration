@@ -1,4 +1,4 @@
 package com.test;
 
-public class HelloWorld git status{
+public class HelloWorld {
 }
